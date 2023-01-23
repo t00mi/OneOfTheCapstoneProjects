@@ -14,3 +14,5 @@ The program allows you to:
 - Determine the product with the lowest quantity and restock it.
 - Determine the product with the highest quantity.
 - Calculate the total value of each stock item. 
+
+In order t
